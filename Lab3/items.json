@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "price": 19.99,
+    "color": "black"
+  },
+  {
+    "id": 2,
+    "name": "Sneakers",
+    "price": 59.99,
+    "color": "white"
+  }
+]
